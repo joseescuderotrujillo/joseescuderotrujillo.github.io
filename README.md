@@ -1,11 +1,11 @@
-# Jose Escudero Trujillo | Ingeniero de Diseño en Fabricación Mecánica & Fabricación Aditiva
+# Jose Escudero Trujillo | Mechanical Design & Additive Manufacturing Specialist | Parametric Modeling, R&D&I & Real-Time 3D (UE5) | SolidWorks CSWA & Solid Edge Certified
 
 Especialista en Diseño CAD 3D Paramétrico (SolidWorks CSWA, Siemens Solid Edge), Metodología DfAM (Diseño para Fabricación Aditiva) e integración 3D en tiempo real con Unreal Engine 5. Trayectoria destacada en desarrollo de instrumental científico de precisión (CIEMAT / Proyecto LIFE NEEVÉ / RICTA) y maquinaria automatizada comercial (Lomatec Solutions).
 
 ## 📍 Datos de Contacto y Enlaces Oficiales
 
-- **Ubicación:** Madrid, España
-- **LinkedIn:** [linkedin.com/in/jose-escudero-trujillo](https://linkedin.com/in/jose-escudero-trujillo)
+- **Ubicación:** España
+- **LinkedIn:** [linkedin.com/in/jose-escudero-trujillo-](https://www.linkedin.com/in/jose-escudero-trujillo-)
 - **The Rookies:** [therookies.co/u/Escud](https://therookies.co/u/Escud)
 
 ## 🔬 Experiencia Profesional e Investigación (I+D+i)
